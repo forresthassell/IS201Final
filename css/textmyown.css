@@ -1,0 +1,29 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color:aqua
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+  }
+  
+body{
+    background-color: blueviolet;
+    border: 5px solid black;
+    margin: 20px; 
+    padding: 20px;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
